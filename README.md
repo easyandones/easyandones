@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is my secondary GitHub account.
+
+⬇⬇⬇ All production projects are hosted here ⬇⬇⬇
+
+https://github.com/devhotteok
